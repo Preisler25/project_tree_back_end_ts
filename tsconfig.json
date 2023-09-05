@@ -6,7 +6,11 @@
       "es6"
     ],
     "allowJs": true,
+<<<<<<< HEAD
     "outDir": "./dist",
+=======
+    "outDir": "dist",
+>>>>>>> refs/remotes/origin/main
     "rootDir": "src",
     "strict": true,
     "noImplicitAny": true,
